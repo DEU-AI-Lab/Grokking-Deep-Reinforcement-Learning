@@ -4,7 +4,7 @@
 
 교재 : 그로킹 심층 강화학습
 
-2장 실습용 라이브러리
+2장, 3장 실습용 라이브러리
 
 https://github.com/ses0137/gym-walk.git
 
