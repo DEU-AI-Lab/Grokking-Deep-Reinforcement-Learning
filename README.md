@@ -9,3 +9,7 @@
 https://github.com/ses0137/gym-walk.git
 
 https://github.com/ses0137/gym-aima.git
+
+4장 실습용 라이브러리
+
+https://github.com/ses0137/gym-bandits.git
