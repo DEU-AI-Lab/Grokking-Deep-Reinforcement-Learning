@@ -13,7 +13,7 @@ https://nbviewer.org/
 ![image](https://github.com/user-attachments/assets/fe04f47c-b2ca-42a6-8a36-df1524b7af9b)
 
 
-2장, 3장 실습용 라이브러리
+2장, 3장, 5장 실습용 라이브러리
 
 https://github.com/ses0137/gym-walk.git
 
